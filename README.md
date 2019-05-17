@@ -13,3 +13,6 @@ Beispielhafte Anfrage:
 ]
 
 Beispielhafte Antwort:
+{
+    "prediction": "[1]"
+}
