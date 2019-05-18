@@ -16,3 +16,5 @@ Beispielhafte Antwort:
 {
     "prediction": "[1]"
 }
+
+Anleitung und Erläuterung auf meinem [Medium.com](https://medium.com/@stefan.preusler/flask-api-und-machine-learning-modell-a27242c23e45) Artikel.

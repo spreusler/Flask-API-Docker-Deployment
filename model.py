@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 # Load the dataset in a dataframe object and include only four features as mentioned
 url = "http://s3.amazonaws.com/assets.datacamp.com/course/Kaggle/train.csv"
 df = pd.read_csv(url)
